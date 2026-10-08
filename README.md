@@ -22,7 +22,7 @@
 ### [개인/팀 프로젝트명]
 ---
 ## 📫 Contact & Channels
-* **Email:** jaemin@hs.ac.kr
+
 * **GitHub:** [https://github.com/jaemin-hash]
 
 <!--
